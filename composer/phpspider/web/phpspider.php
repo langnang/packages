@@ -39,6 +39,7 @@ util::path_exists(PATH_DATA . '/status');
 
 class phpspider
 {
+
     /**
      * 版本号
      * @var string
